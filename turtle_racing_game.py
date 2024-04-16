@@ -7,7 +7,7 @@ import time
 
 #setting up screen for the game!
 screen = turtle.Screen()
-screen.bgcolor('lightblue') #backgrougd color 
+screen.bgcolor('lightblue') #background color 
 
 #two players in this game. Whoever gets to the other side first wins
 
